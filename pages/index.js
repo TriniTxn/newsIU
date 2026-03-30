@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Spruce and Rosewood are better than Mahogany</h1>
+  return <h1>Spruce and Rosewood are better than Mahogany</h1>;
 }
 
-export default Home
+export default Home;
